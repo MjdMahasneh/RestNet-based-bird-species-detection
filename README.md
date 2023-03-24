@@ -2,4 +2,4 @@
 RestNet based bird species detection using Pytorch
 
 
-This implementation is based on git tag <tagname> -a https://github.com/bentrevett/pytorch-image-classification 
+This implementation is based on [pytorch-image-classification](https://github.com/bentrevett/pytorch-image-classification)
